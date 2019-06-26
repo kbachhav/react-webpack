@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{347:function(e,n,t){"use strict";t.r(n);var a=t(0),o=t.n(a);n.default=function(){return console.log(void 0),o.a.createElement("div",null,o.a.createElement("h1",{className:"text-info"},"About Component"),o.a.createElement("h4",{className:"text-warning"},"This is a simple, React Routing Application"))}}}]);
